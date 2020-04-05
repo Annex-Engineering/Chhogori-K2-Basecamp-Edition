@@ -1,3 +1,9 @@
+# Chhogori (K2) Printer - Basecamp Edition
+
+Chhogori (K2) - Basecamp Edition: is a Medium Format, Direct Drive, Open Air FDM Printer.
+
+This is an entirely scratch design, based on the efforts of the "Hypercube Overkill Project" for the XY Motion System
+
 This project is still in flux, things may change, the goals of this project are as follows:
 
 - Open Air Design - Upgradable to Summit Edition
