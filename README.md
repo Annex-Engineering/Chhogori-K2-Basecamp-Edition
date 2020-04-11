@@ -8,7 +8,7 @@ This project is still in flux, things may change, the goals of this project are 
 
 - Open Air Design - Upgradable to Summit Edition
 - 2020, 2040, and Frame Members
-- Build Volumes of ~200^3 to 400^3 (use of whole plate available) + additional area to purge and wipe
+- Build Volumes of ~250^3 to 400^3 (use of whole plate available) + additional area to purge and wipe
 - Direct Drive Extruder
 - Shortest Belt Paths Possible, 4 Motors, 2 Per X, 2 Per Y Axis
 - Moving Bed, Fixed Gantry
