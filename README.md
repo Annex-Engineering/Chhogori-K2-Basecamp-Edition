@@ -22,7 +22,7 @@ This project is still in flux, things may change, the goals of this project are 
 - 24V Power Standard
 - AC Heated Bed, 12mm MIC6 Plate with Magnetic Build Surface
 
- ![Image of K2](https://github.com/Annex-Engineering/Chhogori-K2-Basecamp-Edition/blob/master/Images/ISO.JPGraw=true)
+ ![Image of K2](https://raw.githubusercontent.com/Annex-Engineering/Chhogori-K2-Basecamp-Edition/master/Images/ISO.JPG?raw=true)
  
  ![Image of K2 Electronics](https://github.com/Annex-Engineering/Chhogori-K2-Basecamp-Edition/blob/master/Images/Electronics_Bay.JPG?raw=true)
  
