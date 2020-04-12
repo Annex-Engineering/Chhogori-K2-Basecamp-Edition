@@ -4,6 +4,12 @@ Chhogori (K2) - Basecamp Edition: is a Medium Format, Direct Drive, Open Air FDM
 
 This is an entirely scratch design, based on the efforts of the "Hypercube Overkill Project" for the XY Motion System
 
+Our discord server can be found here: https://discord.gg/MzTR3zE
+
+BOM/Sourcing Guide for a 250x250x250 Build can be found here:  https://docs.google.com/spreadsheets/d/1O3eyVuQ6M4F03MJSDs4Z71_XyNjXL5HFTZr1jsaAtRc/edit?usp=sharing
+
+Frame Calculator: https://docs.google.com/spreadsheets/d/13liXa9Ag0wGGfv0r0511OmAwZuGD7cvcuc0zpDakIw4/edit?usp=sharing
+
 This project is still in flux, things may change, the goals of this project are as follows:
 
 - Open Air Design - Upgradable to Summit Edition
