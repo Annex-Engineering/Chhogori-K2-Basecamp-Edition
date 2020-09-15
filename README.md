@@ -29,6 +29,13 @@ This project is still in flux, things may change, the goals of this project are 
 - 24V Power Standard
 - AC Heated Bed, 12mm MIC6 Plate with Magnetic Build Surface
 
+Release Schedule:
+ - Release 1 - RC2: Final True Release
+ - Release 1: Bug Fixes from Final Testing of RC2
+ - Release 1.1: Belted Z Drive Option
+ - Release 1.2: New Front Door Design
+ - Release 2.0: New Gantry
+
  ![Image of K2](https://raw.githubusercontent.com/Annex-Engineering/Chhogori-K2-Basecamp-Edition/master/Images/ISO.JPG?raw=true)
  
  ![Image of K2 Electronics](https://github.com/Annex-Engineering/Chhogori-K2-Basecamp-Edition/blob/master/Images/Electronics_Bay.JPG?raw=true)
