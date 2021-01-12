@@ -1,6 +1,6 @@
 These files are provided with only discord support, please use the sourcing guides that can be found there. Please use these at your own risk.
 
-# Chhogori (K2) Printer - Basecamp Edition - Release 2 - Beta
+# Chhogori (K2) Printer - Basecamp Edition - Release 2
 
 Chhogori (K2) - Basecamp Edition: is a Medium Format, Direct Drive, Open Air FDM Printer.
 
@@ -15,7 +15,7 @@ Frame Calculator: https://docs.google.com/spreadsheets/d/13liXa9Ag0wGGfv0r0511Om
 # Stats:
 - Open Air Design
 - 2020, and 2040 Frame Members
-- Build Volumes of ~200^3 to 500^3 (use of whole plate available) + additional area to purge and wipe
+- Build Volumes of ~250^3 to 500^3 (use of whole plate available) + additional area to purge and wipe
      - Z can theoretically be 1m tall, just not fully supported or tested
 
 - Direct Drive Extruder (Sherpa Mini or Ascender)
