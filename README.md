@@ -35,6 +35,8 @@ Frame Calculator: https://docs.google.com/spreadsheets/d/13liXa9Ag0wGGfv0r0511Om
 - 24V Power Standard
 - Mains Bed
 
+![Image of Machine with Panels](Release_2/Images/K2_BC_ISO_CAD_1.PNG?raw=true)
+
 ![Image of Toolhead 1](Release_2/Images/1800px_k2_r2_render_toolhead_lower.png?raw=true)
 
 ![Image of Toolhead 2](Release_2/Images/1800px_k2_r2_render_toolhead_upper.png?raw=true)
