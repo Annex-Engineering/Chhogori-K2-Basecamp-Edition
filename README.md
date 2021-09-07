@@ -1,4 +1,4 @@
-# Chhogori (K2) Printer - Basecamp Edition - Release 2.0.1
+# Chhogori (K2) Printer - Basecamp Edition - Release 2.1 - Beta
 
 Chhogori (K2) - Basecamp Edition: is a Medium Format, Direct Drive, Open Air FDM Printer.
 
@@ -23,8 +23,10 @@ Frame Calculator: https://docs.google.com/spreadsheets/d/13liXa9Ag0wGGfv0r0511Om
 
 - MGN12C Rails for XYZ Stationary Rails
 - MGN12C Rails with 1515 Backers for XY Cross (Moving Members)
-- 12mm Belts on XY Motion 
-- 15mm 3HTD Belts with 60:1 Worm Drive on Z to lift the Bed
+- 12mm 2GT Belts on XY Motion 
+- 12mm 2GT Belts with 20 or 40:1 Worm Drive on Z to lift the Bed 
+	 - Hybrid Laser Cut Metal and Printed Part Construction
+	 - Legacy Support for 15mm 3HTD belts also offered
 - Heavy Duty Bearings
 - NEMA17 Motors XYZ
 
