@@ -1,4 +1,4 @@
-# Chhogori (K2) Printer - Basecamp Edition - Release 2.1 - Beta
+# Chhogori (K2) Printer - Basecamp Edition - Release 2.1
 
 Chhogori (K2) - Basecamp Edition: is a Medium Format, Direct Drive, Open Air FDM Printer.
 
@@ -33,7 +33,7 @@ Frame Calculator: https://docs.google.com/spreadsheets/d/13liXa9Ag0wGGfv0r0511Om
 - Minimal Printed Parts (ABS or ASA Required)
 
 - Fysetc Spider or S6 Controller + BTT Expander Board with Klipper Required
-- Mosquito Style Hot End Standard, Dragon Style Hot End Supported
+- Mosquito Style, Dragon Style, Mosquito Magnum+ and Nitram's VolcoMosquito hotends supported
 - 24V Power Standard
 - Mains Bed
 
