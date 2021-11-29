@@ -1,3 +1,7 @@
+# Notes:
+as of 11-29-2021, K2 Basecamp edition will no longer recieve updates, this was voted upon by the community. We will do our best to make sure all frames are forwards compatible with any XY or Z axis related changes, however, we cannot guarantee anything.
+ - Trails
+
 # Chhogori (K2) Printer - Basecamp Edition - Release 2.1
 
 Chhogori (K2) - Basecamp Edition: is a Medium Format, Direct Drive, Open Air FDM Printer.
